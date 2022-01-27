@@ -7,3 +7,6 @@ This repository contains materials and assignments from the generative adversari
 ### week 2 - Deep Convolution Generative Adversarial Netork(DCGAN)
 
 ### week 3 - Wasserstein GANs with Gradient Penalty
+
+
+#### framework used: Pytorch.
